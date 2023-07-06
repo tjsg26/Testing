@@ -1,0 +1,200 @@
+PHRASE,SCORE,START_WITH,END_WITH,CASE_SENSITIVE
+ind.zensar.com,1,TRUE,TRUE,TRUE
+ldap.zensar.com,1,TRUE,TRUE,TRUE
+ldap.ind.zensar.com,1,TRUE,TRUE,TRUE
+secret.password,1,TRUE,TRUE,TRUE
+secret_access_key,1,TRUE,TRUE,TRUE
+secret_key,1,TRUE,TRUE,TRUE
+secret_token,1,TRUE,TRUE,TRUE
+secrets,1,TRUE,TRUE,TRUE
+JEKYLL_GITHUB_TOKEN,1,TRUE,TRUE,TRUE
+"""JEKYLL_GITHUB_TOKEN""",1,TRUE,TRUE,TRUE
+client_secret,1,TRUE,TRUE,TRUE
+cloudfront,1,TRUE,TRUE,TRUE
+codecov_token,1,TRUE,TRUE,TRUE
+internal,1,TRUE,TRUE,TRUE
+irc_pass,1,TRUE,TRUE,TRUE
+keyPassword,1,TRUE,TRUE,TRUE
+key,1,TRUE,TRUE,TRUE
+.mlab.com password,1,TRUE,TRUE,TRUE
+AWSSecretKey,1,TRUE,TRUE,TRUE
+JEKYLL_GITHUB_TOKEN,1,TRUE,TRUE,TRUE
+SF_USERNAME salesforce,1,TRUE,TRUE,TRUE
+access_key,1,TRUE,TRUE,TRUE
+access_token,1,TRUE,TRUE,TRUE
+amazonaws,1,TRUE,TRUE,TRUE
+apiSecret,1,TRUE,TRUE,TRUE
+api_key,1,TRUE,TRUE,TRUE
+api_secret,1,TRUE,TRUE,TRUE
+apidocs,1,TRUE,TRUE,TRUE
+apikey,1,TRUE,TRUE,TRUE
+app_key,1,TRUE,TRUE,TRUE
+app_secret,1,TRUE,TRUE,TRUE
+appkey,1,TRUE,TRUE,TRUE
+appkeysecret,1,TRUE,TRUE,TRUE
+application_key,1,TRUE,TRUE,TRUE
+appsecret,1,TRUE,TRUE,TRUE
+appspot,1,TRUE,TRUE,TRUE
+auth,1,TRUE,TRUE,TRUE
+auth_token,1,TRUE,TRUE,TRUE
+authorizationToken,1,TRUE,TRUE,TRUE
+aws_access,1,TRUE,TRUE,TRUE
+aws_access_key_id,1,TRUE,TRUE,TRUE
+aws_key,1,TRUE,TRUE,TRUE
+aws_secret,1,TRUE,TRUE,TRUE
+aws_token,1,TRUE,TRUE,TRUE
+bashrc password,1,TRUE,TRUE,TRUE
+bucket_password,1,TRUE,TRUE,TRUE
+client_secret,1,TRUE,TRUE,TRUE
+cloudfront,1,TRUE,TRUE,TRUE
+codecov_token,1,TRUE,TRUE,TRUE
+config,1,TRUE,TRUE,TRUE
+conn.login,1,TRUE,TRUE,TRUE
+connectionstring,1,TRUE,TRUE,TRUE
+consumer_key,1,TRUE,TRUE,TRUE
+credentials,1,TRUE,TRUE,TRUE
+database_password,1,TRUE,TRUE,TRUE
+db_password,1,TRUE,TRUE,TRUE
+db_username,1,TRUE,TRUE,TRUE
+dbpasswd,1,TRUE,TRUE,TRUE
+dbpassword,1,TRUE,TRUE,TRUE
+dbuser,1,TRUE,TRUE,TRUE
+dot-files,1,TRUE,TRUE,TRUE
+dotfiles,1,TRUE,TRUE,TRUE
+encryption_key,1,TRUE,TRUE,TRUE
+fabricApiSecret,1,TRUE,TRUE,TRUE
+fb_secret,1,TRUE,TRUE,TRUE
+firebase,1,TRUE,TRUE,TRUE
+ftp,1,TRUE,TRUE,TRUE
+gh_token,1,TRUE,TRUE,TRUE
+github_key,1,TRUE,TRUE,TRUE
+github_token,1,TRUE,TRUE,TRUE
+gitlab,1,TRUE,TRUE,TRUE
+gmail_password,1,TRUE,TRUE,TRUE
+gmail_username,1,TRUE,TRUE,TRUE
+api.googlemaps AIza,1,TRUE,TRUE,TRUE
+herokuapp,1,TRUE,TRUE,TRUE
+internal,1,TRUE,TRUE,TRUE
+irc_pass,1,TRUE,TRUE,TRUE
+key,1,TRUE,TRUE,TRUE
+keyPassword,1,TRUE,TRUE,TRUE
+ldap_password,1,TRUE,TRUE,TRUE
+ldap_username,1,TRUE,TRUE,TRUE
+login,1,TRUE,TRUE,TRUE
+mailchimp,1,TRUE,TRUE,TRUE
+mailgun,1,TRUE,TRUE,TRUE
+master_key,1,TRUE,TRUE,TRUE
+mydotfiles,1,TRUE,TRUE,TRUE
+mysql,1,TRUE,TRUE,TRUE
+node_env,1,TRUE,TRUE,TRUE
+npmrc _auth,1,TRUE,TRUE,TRUE
+oauth_token,1,TRUE,TRUE,TRUE
+pass,1,TRUE,TRUE,TRUE
+passwd,1,TRUE,TRUE,TRUE
+password,1,TRUE,TRUE,TRUE
+passwords,1,TRUE,TRUE,TRUE
+pem private,1,TRUE,TRUE,TRUE
+preprod,1,TRUE,TRUE,TRUE
+private_key,1,TRUE,TRUE,TRUE
+prod,1,TRUE,TRUE,TRUE
+pwd,1,TRUE,TRUE,TRUE
+pwds,1,TRUE,TRUE,TRUE
+rds.amazonaws.com password,1,TRUE,TRUE,TRUE
+redis_password,1,TRUE,TRUE,TRUE
+root_password,1,TRUE,TRUE,TRUE
+secret,1,TRUE,TRUE,TRUE
+secret.password,1,TRUE,TRUE,TRUE
+secret_access_key,1,TRUE,TRUE,TRUE
+secret_key,1,TRUE,TRUE,TRUE
+secret_token,1,TRUE,TRUE,TRUE
+secrets,1,TRUE,TRUE,TRUE
+secure,1,TRUE,TRUE,TRUE
+security_credentials,1,TRUE,TRUE,TRUE
+send.keys,1,TRUE,TRUE,TRUE
+send_keys,1,TRUE,TRUE,TRUE
+sendkeys,1,TRUE,TRUE,TRUE
+sf_username,1,TRUE,TRUE,TRUE
+slack_api,1,TRUE,TRUE,TRUE
+slack_token,1,TRUE,TRUE,TRUE
+sql_password,1,TRUE,TRUE,TRUE
+ssh,1,TRUE,TRUE,TRUE
+ssh2_auth_password,1,TRUE,TRUE,TRUE
+sshpass,1,TRUE,TRUE,TRUE
+staging,1,TRUE,TRUE,TRUE
+stg,1,TRUE,TRUE,TRUE
+storePassword,1,TRUE,TRUE,TRUE
+stripe,1,TRUE,TRUE,TRUE
+swagger,1,TRUE,TRUE,TRUE
+testuser,1,TRUE,TRUE,TRUE
+token,1,TRUE,TRUE,TRUE
+x-api-key,1,TRUE,TRUE,TRUE
+xoxp,1,TRUE,TRUE,TRUE
+xoxb ,1,TRUE,TRUE,TRUE
+HEROKU_API_KEY language:json,1,TRUE,TRUE,TRUE
+HEROKU_API_KEY language:shell,1,TRUE,TRUE,TRUE
+HOMEBREW_GITHUB_API_TOKEN language:shell,1,TRUE,TRUE,TRUE
+PT_TOKEN language:bash,1,TRUE,TRUE,TRUE
+[WFClient] Password= extension:ica,1,TRUE,TRUE,TRUE
+jsforce extension:js conn.login,1,TRUE,TRUE,TRUE
+language:yaml -filename:travis,1,TRUE,TRUE,TRUE
+msg nickserv identify filename:config,1,TRUE,TRUE,TRUE
+path:sites databases password,1,TRUE,TRUE,TRUE
+private -language:java,1,TRUE,TRUE,TRUE
+shodan_api_key language:python,1,TRUE,TRUE,TRUE
+mongodb://,1,TRUE,TRUE,TRUE
+ldaps://ind,1,TRUE,TRUE,TRUE
+ldap://ind,1,TRUE,TRUE,TRUE
+access_key,1,TRUE,TRUE,TRUE
+access_token,1,TRUE,TRUE,TRUE
+admin_pass,1,TRUE,TRUE,TRUE
+admin_user,1,TRUE,TRUE,TRUE
+api,1,TRUE,TRUE,TRUE
+database_password,1,TRUE,TRUE,TRUE
+database_schema_test,1,TRUE,TRUE,TRUE
+datadog_api_key,1,TRUE,TRUE,TRUE
+datadog_app_key,1,TRUE,TRUE,TRUE
+db_password,1,TRUE,TRUE,TRUE
+db_server,1,TRUE,TRUE,TRUE
+db_username,1,TRUE,TRUE,TRUE
+dbpasswd,1,TRUE,TRUE,TRUE
+dbpassword,1,TRUE,TRUE,TRUE
+dbuser,1,TRUE,TRUE,TRUE
+ssh_key,1,TRUE,TRUE,TRUE
+ssh_password,1,TRUE,TRUE,TRUE
+github_id,1,TRUE,TRUE,TRUE
+github_key,1,TRUE,TRUE,TRUE
+github_password,1,TRUE,TRUE,TRUE
+github_token,1,TRUE,TRUE,TRUE
+mysql password,1,TRUE,TRUE,TRUE
+mysql_root_password,1,TRUE,TRUE,TRUE
+s3_access_key,1,TRUE,TRUE,TRUE
+s3_access_key_id,1,TRUE,TRUE,TRUE
+s3_key,1,TRUE,TRUE,TRUE
+s3_key_app_logs,1,TRUE,TRUE,TRUE
+s3_key_assets,1,TRUE,TRUE,TRUE
+s3_secret_key,1,TRUE,TRUE,TRUE
+rest_api_key,1,TRUE,TRUE,TRUE
+rinkeby_private_key,1,TRUE,TRUE,TRUE
+root_password,1,TRUE,TRUE,TRUE
+ropsten_private_key,1,TRUE,TRUE,TRUE
+route53_access_key_id,1,TRUE,TRUE,TRUE
+prod,1,TRUE,TRUE,TRUE
+prod_password,1,TRUE,TRUE,TRUE
+prod.access.key.id,1,TRUE,TRUE,TRUE
+prod.secret.key,1,TRUE,TRUE,TRUE
+postgres_env_postgres_password,1,TRUE,TRUE,TRUE
+postgresql_pass,1,TRUE,TRUE,TRUE
+oauth_token,1,TRUE,TRUE,TRUE
+tenant,1,TRUE,TRUE,TRUE
+clientId,1,TRUE,TRUE,TRUE
+private_signing_password,1,TRUE,TRUE,TRUE
+personal_key,1,TRUE,TRUE,TRUE
+docker_key,1,TRUE,TRUE,TRUE
+docker_pass,1,TRUE,TRUE,TRUE
+docker_passwd,1,TRUE,TRUE,TRUE
+docker_password,1,TRUE,TRUE,TRUE
+dockerhub_password,1,TRUE,TRUE,TRUE
+dockerhubpassword,1,TRUE,TRUE,TRUE
+iam.ind.zesar.com,1,TRUE,TRUE,TRUE
+web.ind.zensar.com,1,TRUE,TRUE,TRUE
+@zensar.com,1,TRUE,TRUE,TRUE
